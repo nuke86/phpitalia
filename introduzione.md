@@ -1,7 +1,5 @@
 ---
 title: Introduzione
-parent: Introduzione
-has_children: true
 nav_order: 1
 ---
 
