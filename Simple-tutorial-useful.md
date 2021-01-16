@@ -14,7 +14,7 @@ Facciamo qualcosa di più utile adesso. Stiamo per verificare quale tipo di brow
 
 Per visualizzare questa variabile, puoi semplicemente fare:
 
-Esempio n. 1 Stampa di una variabile (elemento Array)
+Esempio # 1 Stampa di una variabile (elemento Array)
 
 ```
 <?php
@@ -55,7 +55,7 @@ Il secondo concetto che abbiamo introdotto è stata la chiamata alla funzione *s
 
 Possiamo fare un ulteriore passo avanti e mostrare come puoi saltare dentro e fuori dalla modalità PHP anche nel mezzo di un blocco PHP:
 
-Esempio n. 3 Combinazione di modalità HTML e PHP
+Esempio # 3 Combinazione di modalità HTML e PHP
 
 ```
 <?php
