@@ -5,7 +5,6 @@
 Benvenuto.
 
 > PHP è un popolare linguaggio di scripting generico particolarmente adatto allo sviluppo web.
-> 
 > Veloce, flessibile e pragmatico, PHP alimenta tutto, dal tuo blog ai siti web più popolari al mondo.
 
 Questo sito vuole essere un punto di riferimento per la documentazione di PHP in italiano. Comprese le variazioni e le migrazioni di features tra le differenti versioni attualmente in circolazione.
