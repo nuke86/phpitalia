@@ -8,9 +8,9 @@ nav_order: 3
 # Qualcosa di utile
 Facciamo qualcosa di più utile adesso. Stiamo per verificare quale tipo di browser sta utilizzando il visitatore. Per questo, controlliamo la stringa dell'agente utente che il browser invia come parte della richiesta HTTP. Queste informazioni vengono memorizzate in una variabile . Le variabili iniziano sempre con un segno di dollaro in PHP. La variabile che ci interessa in questo momento è ```$_SERVER['HTTP_USER_AGENT']```.
 
-Nota :
-
-$_SERVER è una variabile PHP riservata speciale che contiene tutte le informazioni del server web. È noto come superglobale. Vedere la relativa pagina di manuale sulle superglobali per maggiori informazioni. Queste variabili speciali sono state introdotte in PHP »4.1.0. Prima di allora, utilizzavamo invece i vecchi array ```$HTTP_*_VARS```, come ```$HTTP_SERVER_VARS```. A partire da PHP 5.4.0 queste vecchie variabili sono state rimosse. (Vedi anche la nota sul vecchio codice).
+> Nota :
+> 
+> $_SERVER è una variabile PHP riservata speciale che contiene tutte le informazioni del server web. È noto come superglobale. Vedere la relativa pagina di manuale sulle superglobali per maggiori informazioni. Queste variabili speciali sono state introdotte in PHP »4.1.0. Prima di allora, utilizzavamo invece i vecchi array ```$HTTP_*_VARS```, come ```$HTTP_SERVER_VARS```. A partire da PHP 5.4.0 queste vecchie variabili sono state rimosse. (Vedi anche la nota sul vecchio codice).
 
 Per visualizzare questa variabile, puoi semplicemente fare:
 
