@@ -1,7 +1,7 @@
 ---
 title: Di cosa ho bisogno?
 parent: Un semplice tutorial
-grand_parent: Inziamo
+grand_parent: Iniziamo
 nav_order: 1
 ---
 
