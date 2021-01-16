@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # La tua prima pagina PHP
-Crea un file chiamato *hello.php* e mettilo nella directory principale del tuo server web ( DOCUMENT_ROOT ) con il seguente contenuto:
+Crea un file chiamato *hello.php* e mettilo nella directory principale del tuo server web (DOCUMENT_ROOT) con il seguente contenuto:
 
 Esempio # 1 Il nostro primo script PHP: *hello.php*
 
@@ -39,3 +39,12 @@ Questo programma è estremamente semplice e non hai davvero bisogno di usare PHP
 Se hai provato questo esempio e non ha prodotto nulla, è stato richiesto il download, o vedi l'intero file come testo, è probabile che il server su cui ti trovi non abbia PHP abilitato o non sia configurato correttamente. Chiedere al proprio amministratore di abilitarlo utilizzando il capitolo Installazione del manuale. Se stai sviluppando localmente, leggi anche il capitolo sull'installazione per assicurarti che tutto sia configurato correttamente. Assicurati di accedere al file tramite http con il server che ti fornisce l'output. Se si richiama il file dal proprio file system, non verrà analizzato da PHP. Se i problemi persistono comunque, non esitare a usare una delle tante [»opzioni di supporto PHP](https://www.php.net/support.php).
 
 Il punto dell'esempio è mostrare il formato speciale del tag PHP. In questo esempio abbiamo usato *<?php* per indicare l'inizio di un tag PHP. Poi abbiamo messo la dichiarazione PHP e lasciato modalità PHP con l'aggiunta del tag di chiusura, *?>*. Puoi entrare e uscire dalla modalità PHP in un file HTML come questo ovunque tu voglia. Per maggiori dettagli, leggi la sezione del manuale sulla sintassi PHP di base.
+
+Ora che hai creato con successo uno script PHP funzionante, è il momento di creare lo script PHP più famoso! Effettua una chiamata alla funzione *phpinfo()* e vedrai molte informazioni utili sul tuo sistema e sulla configurazione come le variabili predefinite disponibili, i moduli PHP caricati e le impostazioni di configurazione. Prenditi un po' di tempo e rivedi queste importanti informazioni.
+
+Esempio # 2 Ottieni informazioni di sistema da PHP
+
+```
+<?php phpinfo(); ?>
+```
+
