@@ -1,7 +1,7 @@
 ---
 title: Un semplice tutorial
 parent: Iniziamo
-has_child: true
+has_children: true
 nav_order: 3
 ---
 
