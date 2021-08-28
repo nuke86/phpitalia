@@ -38,6 +38,10 @@ Esempi di entrata e uscita dal parser PHP:
 
 ### Nota:
 ```
-Il tag di chiusura di un blocco PHP alla fine di un file è facoltativo e in alcuni casi ometterlo è utile quando si utilizza include o require, quindi non si verificheranno spazi bianchi indesiderati alla fine dei file e sarà comunque possibile aggiungere intestazioni alla risposta successiva. È anche utile se si utilizza il buffering dell'output e non si desidera visualizzare spazi bianchi indesiderati aggiunti alla fine delle parti generate dai file inclusi.
+Il tag di chiusura di un blocco PHP alla fine di un file è facoltativo e in alcuni casi ometterlo è 
+utile quando si utilizza include o require, quindi non si verificheranno spazi bianchi indesiderati 
+alla fine dei file e sarà comunque possibile aggiungere intestazioni alla risposta successiva. È anche 
+utile se si utilizza il buffering dell'output e non si desidera visualizzare spazi bianchi indesiderati 
+aggiunti alla fine delle parti generate dai file inclusi.
 
 ```

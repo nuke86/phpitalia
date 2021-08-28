@@ -14,7 +14,7 @@ Facciamo qualcosa di più utile adesso. Stiamo per verificare quale tipo di brow
 
 Per visualizzare questa variabile, puoi semplicemente fare:
 
-Esempio # 1 Stampa di una variabile (elemento Array)
+**Esempio # 1 Stampa di una variabile (elemento Array)**
 
 ```
 <?php
@@ -34,7 +34,7 @@ Ci sono molti tipi di variabili disponibili in PHP. Nell'esempio sopra abbiamo s
 
 Puoi inserire più istruzioni PHP all'interno di un tag PHP e creare piccoli blocchi di codice che fanno più di un semplice eco. Ad esempio, se desideri verificare la presenza di Internet Explorer, puoi farlo:
 
-Esempio # 2 Esempio di utilizzo di strutture e funzioni di controllo
+**Esempio # 2 Esempio di utilizzo di strutture e funzioni di controllo**
 
 ```
 <?php
@@ -55,7 +55,7 @@ Il secondo concetto che abbiamo introdotto è stata la chiamata alla funzione *s
 
 Possiamo fare un ulteriore passo avanti e mostrare come puoi saltare dentro e fuori dalla modalità PHP anche nel mezzo di un blocco PHP:
 
-Esempio # 3 Combinazione di modalità HTML e PHP
+**Esempio # 3 Combinazione di modalità HTML e PHP**
 
 ```
 <?php

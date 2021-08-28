@@ -33,5 +33,6 @@ Per l'output di grandi blocchi di testo, l'abbandono della modalità di analisi 
 
 ### Nota:
 ```
-Se PHP è incorporato in XML o XHTML, il normale PHP <?php ?>deve essere utilizzato per rimanere conforme agli standard.
+Se PHP è incorporato in XML o XHTML, il normale PHP <?php ?>deve essere 
+utilizzato per rimanere conforme agli standard.
 ```
